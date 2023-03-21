@@ -1,4 +1,4 @@
-# trabalho Contech - Alunos:
+#  Alunos:
 
 # Leandro Torres
 # Gabriel Vinícius
